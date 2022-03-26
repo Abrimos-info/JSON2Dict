@@ -1,0 +1,17 @@
+{
+  "name": "json2dict",
+  "version": "0.1.0",
+  "description": "Analyze stream of JSON documents and produce a dictionary of their structure and values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Matzdorf",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "csv-string": "^4.1.0",
+    "event-stream": "^4.0.1",
+    "JSONStream": "^1.3.5"
+  }
+}
