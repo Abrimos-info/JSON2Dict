@@ -1,6 +1,6 @@
 {
   "name": "json2dict",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Analyze stream of JSON documents and produce a dictionary of their structure and values.",
   "main": "index.js",
   "scripts": {
